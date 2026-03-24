@@ -1,7 +1,7 @@
-package com.crudbackmauro.controller;
+package com.crudback_mauro.controller;
 
-import com.crudbackmauro.dto.FuncionarioDTO;
-import com.crudbackmauro.service.FuncionarioService;
+import com.crudback_mauro.dto.FuncionarioDTO;
+import com.crudback_mauro.service.FuncionarioService;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,7 +1,7 @@
-package com.crudbackmauro.mapper;
+package com.crudback_mauro.mapper;
 
-import com.crudbackmauro.dto.FuncionarioDTO;
-import com.crudbackmauro.model.Funcionario;
+import com.crudback_mauro.dto.FuncionarioDTO;
+import com.crudback_mauro.model.Funcionario;
 
 public class FuncionarioMapper {
 

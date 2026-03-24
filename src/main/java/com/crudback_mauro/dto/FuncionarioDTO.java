@@ -1,4 +1,4 @@
-package com.crudbackmauro.dto;
+package com.crudback_mauro.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

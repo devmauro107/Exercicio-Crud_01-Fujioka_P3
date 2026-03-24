@@ -1,9 +1,9 @@
-package com.crudbackmauro.service;
+package com.crudback_mauro.service;
 
-import com.crudbackmauro.dto.FuncionarioDTO;
-import com.crudbackmauro.mapper.FuncionarioMapper;
-import com.crudbackmauro.model.Funcionario;
-import com.crudbackmauro.repository.FuncionarioRepository;
+import com.crudback_mauro.dto.FuncionarioDTO;
+import com.crudback_mauro.mapper.FuncionarioMapper;
+import com.crudback_mauro.model.Funcionario;
+import com.crudback_mauro.repository.FuncionarioRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

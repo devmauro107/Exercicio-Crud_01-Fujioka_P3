@@ -1,10 +1,10 @@
-package com.crudbackmauro.service;
+package com.crudback_mauro.service;
 
 
-import com.crudbackmauro.dto.FilmeDTO;
-import com.crudbackmauro.mapper.FilmeMapper;
-import com.crudbackmauro.model.Filme;
-import com.crudbackmauro.repository.FilmeRepository;
+import com.crudback_mauro.dto.FilmeDTO;
+import com.crudback_mauro.mapper.FilmeMapper;
+import com.crudback_mauro.model.Filme;
+import com.crudback_mauro.repository.FilmeRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;

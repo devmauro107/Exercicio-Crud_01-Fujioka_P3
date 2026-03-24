@@ -1,4 +1,4 @@
-package com.crudbackmauro;
+package com.crudback_mauro;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
