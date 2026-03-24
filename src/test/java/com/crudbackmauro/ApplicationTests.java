@@ -1,4 +1,4 @@
-package com.crudback_mauro;
+package com.crudbackmauro;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

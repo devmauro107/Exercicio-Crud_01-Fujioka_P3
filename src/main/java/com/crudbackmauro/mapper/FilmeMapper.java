@@ -1,7 +1,7 @@
-package com.crudback_mauro.mapper;
+package com.crudbackmauro.mapper;
 
-import com.crudback_mauro.dto.FilmeDTO;
-import com.crudback_mauro.model.Filme;
+import com.crudbackmauro.dto.FilmeDTO;
+import com.crudbackmauro.model.Filme;
 import org.springframework.stereotype.Component;
 
 @Component

@@ -1,8 +1,8 @@
-package com.crudback_mauro.Controller;
+package com.crudbackmauro.controller;
 
 
-import com.crudback_mauro.dto.FilmeDTO;
-import com.crudback_mauro.service.FilmeService;
+import com.crudbackmauro.dto.FilmeDTO;
+import com.crudbackmauro.service.FilmeService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

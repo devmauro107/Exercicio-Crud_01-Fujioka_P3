@@ -1,6 +1,6 @@
-package com.crudback_mauro.repository;
+package com.crudbackmauro.repository;
 
-import com.crudback_mauro.model.Filme;
+import com.crudbackmauro.model.Filme;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

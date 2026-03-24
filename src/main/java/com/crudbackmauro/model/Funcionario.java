@@ -1,4 +1,4 @@
-package com.crudback_mauro.model;
+package com.crudbackmauro.model;
 
 
 import jakarta.persistence.*;

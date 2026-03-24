@@ -1,4 +1,4 @@
-package com.crudback_mauro.dto;
+package com.crudbackmauro.dto;
 
 import jakarta.validation.constraints.NotBlank;
 import lombok.AllArgsConstructor;

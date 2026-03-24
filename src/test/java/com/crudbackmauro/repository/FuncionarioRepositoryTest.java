@@ -1,6 +1,6 @@
-package com.crudback_mauro.repository;
+package com.crudbackmauro.repository;
 
-import com.crudback_mauro.model.Funcionario;
+import com.crudbackmauro.model.Funcionario;
 import jakarta.validation.ConstraintViolationException;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
