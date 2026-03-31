@@ -15,6 +15,7 @@ import java.time.LocalDate;
 public class FilmeDTO {
 
     private Long id;
+
     @NotBlank(message = "O título do filme é obrigatório")
     private String titulo;
     private String sinopse;

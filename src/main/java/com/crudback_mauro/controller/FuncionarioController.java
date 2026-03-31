@@ -18,8 +18,6 @@ public class FuncionarioController {
     private final FuncionarioService funcionarioService;
 
     @PostMapping
-
-
     public ResponseEntity<FuncionarioDTO> incluir(@Valid @RequestBody FuncionarioDTO funcionarioDTO) {
         return ResponseEntity.status(HttpStatus.CREATED)
                 .body(funcionarioService.incluir(funcionarioDTO));
